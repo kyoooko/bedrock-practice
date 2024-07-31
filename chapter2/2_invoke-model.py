@@ -1,3 +1,6 @@
+# AWS SDKを用いて各モデルのAPIへリクエストを行う
+# テキスト生成を行う
+
 # Python外部ライブラリをインポート
 import json
 import boto3
